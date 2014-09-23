@@ -1,5 +1,5 @@
 Hello! enPiT 2014 collaborating work at AIIT
-Hello! enPiT AIIT by Y.Chubachi
+Hello! enPiT AIIT by TONG
 
 I am Shigefumi Omoto.
 My name is Yoshiki Eguchi :)
